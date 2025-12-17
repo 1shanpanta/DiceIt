@@ -7,7 +7,7 @@ class GameManager {
     this.gameTimers = new Map(); // groupId -> timeoutId
   }
 
-  //test
+  //
   // Dice type configurations
   getDiceConfig(diceType) {
     const configs = {
